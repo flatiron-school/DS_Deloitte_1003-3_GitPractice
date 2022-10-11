@@ -24,6 +24,7 @@ I will either accept your pull request, or send you feedback on what you need to
 ## Find your name below!
 
 #Allie 
+![happyhusky](https://media.giphy.com/media/ork2E1TWj802SBFHUy/giphy.gif)
 
 #Cam
 
