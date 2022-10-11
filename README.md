@@ -32,8 +32,8 @@ I will either accept your pull request, or send you feedback on what you need to
 
 #Daniel
 
-#Elliot
-https://media1.giphy.com/media/3o6MbbwX2g2GA4MUus/giphy.gif?cid=ecf05e475wc96i72yyhenc43hv4qzv2bh0qymvet7cfhiagf&rid=giphy.gif&ct=g
+#Elliot  
+![homer]https://media1.giphy.com/media/3o6MbbwX2g2GA4MUus/giphy.gif?cid=ecf05e475wc96i72yyhenc43hv4qzv2bh0qymvet7cfhiagf&rid=giphy.gif&ct=g
 #Enrique
 
 #Frida
