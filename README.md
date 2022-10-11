@@ -28,7 +28,7 @@ I will either accept your pull request, or send you feedback on what you need to
 #Cam
 
 #Cole
-https://media3.giphy.com/media/oBQZIgNobc7ewVWvCd/giphy.gif?cid=ecf05e470ksyddqrl8r4h4yq8d9c9nzm6q9ejwy7ga3y29rw&rid=giphy.gif&ct=g
+![doge](https://media3.giphy.com/media/oBQZIgNobc7ewVWvCd/giphy.gif?cid=ecf05e470ksyddqrl8r4h4yq8d9c9nzm6q9ejwy7ga3y29rw&rid=giphy.gif&ct=g)
 #Daniel
 
 #Elliot
