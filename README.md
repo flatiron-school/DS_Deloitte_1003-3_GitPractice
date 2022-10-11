@@ -45,7 +45,7 @@ https://media.giphy.com/media/26ybuK8hwg0iTktFe/giphy.gif
 #Jacob
 
 #Jessica
-![sloth](https://media.giphy.com/media/3NtY188QaxDdC/giphy-downsized.gif)
+![happysloth](https://media.giphy.com/media/3NtY188QaxDdC/giphy-downsized.gif)
 
 #Joe
 
