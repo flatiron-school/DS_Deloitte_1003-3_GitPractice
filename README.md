@@ -50,7 +50,7 @@ I will either accept your pull request, or send you feedback on what you need to
 #Lera
 
 #Mahan
-https://giphy.com/gifs/Mtqip7Jor0DgAvzn6U
+https://giphy.com/gifs/Mtqip7Jor0DgAvzn6U 
 #Maninder
 
 #Mason
