@@ -35,7 +35,11 @@ I will either accept your pull request, or send you feedback on what you need to
 
 #Elliot  
 https://media1.giphy.com/media/3o6MbbwX2g2GA4MUus/giphy.gif?cid=ecf05e475wc96i72yyhenc43hv4qzv2bh0qymvet7cfhiagf&rid=giphy.gif&ct=g
+
+
 #Enrique
+![Halloween](https://media.giphy.com/media/100TIDBVCq8Zji/giphy.gif)
+
 
 #Frida
 https://media.giphy.com/media/26ybuK8hwg0iTktFe/giphy.gif
