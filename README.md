@@ -3,7 +3,7 @@
 
 # Guided GIT-GIF Practice
 
-![happytuesdaydog](https://media.giphy.com/media/kRUEMs3TPopojqb7cN/giphy-downsized.gif)
+![happytuesdaydog](https://media.giphy.com/media/kRUEMs3TPopojqb7cN/giphy-downsized-large.gif)
 
 
 Today's challenge is to contribute to a Git repository, using branches and pull requests! We'll be using a Git branching workflow so we can all contribute to this README file.
