@@ -30,7 +30,7 @@ I will either accept your pull request, or send you feedback on what you need to
 #Cole
 
 #Daniel
-https://media.tenor.com/Y-txuzZqW84AAAAC/cute-anime-chainsaw-man.gif
+![Happy!](https://media.tenor.com/Y-txuzZqW84AAAAC/cute-anime-chainsaw-man.gif)
 
 #Elliot
 
