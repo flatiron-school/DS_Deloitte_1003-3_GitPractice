@@ -40,6 +40,7 @@ https://media1.giphy.com/media/3o6MbbwX2g2GA4MUus/giphy.gif?cid=ecf05e475wc96i72
 #Frida
 https://media.giphy.com/media/26ybuK8hwg0iTktFe/giphy.gif
 #Ian
+![pizzavaporwave](https://media0.giphy.com/media/UDvlM48DtAoo0/giphy.gif?cid=ecf05e478r9zb464dplyk0ynhrgfy62lnft5bduvl35gy6n7&rid=giphy.gif&ct=g)
 
 #Jacob
 
