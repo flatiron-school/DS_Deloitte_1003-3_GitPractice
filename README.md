@@ -37,7 +37,7 @@ https://media1.giphy.com/media/3o6MbbwX2g2GA4MUus/giphy.gif?cid=ecf05e475wc96i72
 #Enrique
 
 #Frida
-
+https://media.giphy.com/media/26ybuK8hwg0iTktFe/giphy.gif
 #Ian
 
 #Jacob
@@ -56,7 +56,7 @@ https://giphy.com/gifs/Mtqip7Jor0DgAvzn6U
 #Maninder
 
 #Mason
-
+![Dancing Baby](https://media.giphy.com/media/Xw6yFn7frR3Y4/giphy.gif)
 #Matthew
 
 #Neil
