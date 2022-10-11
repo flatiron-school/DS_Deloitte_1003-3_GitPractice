@@ -42,7 +42,7 @@ https://media.giphy.com/media/26ybuK8hwg0iTktFe/giphy.gif
 #Ian
 
 #Jacob
-
+![bear](https://media.giphy.com/media/2rAKTgJIQe1buYU1R5/giphy.gif)
 #Jessica
 ![sloth](https://media.giphy.com/media/3NtY188QaxDdC/giphy-downsized.gif)
 
