@@ -40,7 +40,7 @@ I will either accept your pull request, or send you feedback on what you need to
 #Ian
 
 #Jacob
-
+![bear](https://media.giphy.com/media/2rAKTgJIQe1buYU1R5/giphy.gif)
 #Jessica
 ![sloth](https://media.giphy.com/media/3NtY188QaxDdC/giphy-downsized.gif)
 
