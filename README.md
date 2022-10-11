@@ -36,7 +36,7 @@ I will either accept your pull request, or send you feedback on what you need to
 #Enrique
 
 #Frida
-
+https://media.giphy.com/media/26ybuK8hwg0iTktFe/giphy.gif
 #Ian
 
 #Jacob
