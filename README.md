@@ -29,7 +29,7 @@ I will either accept your pull request, or send you feedback on what you need to
 #Cam
 ![cantsleephomer](https://media.giphy.com/media/xT5LMz2DWrwmbfVBK0/giphy.gif)
 #Cole
-
+![doge](https://media3.giphy.com/media/oBQZIgNobc7ewVWvCd/giphy.gif?cid=ecf05e470ksyddqrl8r4h4yq8d9c9nzm6q9ejwy7ga3y29rw&rid=giphy.gif&ct=g)
 #Daniel
 ![chainordog](https://media.tenor.com/Y-txuzZqW84AAAAC/cute-anime-chainsaw-man.gif)
 
